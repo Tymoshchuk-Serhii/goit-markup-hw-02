@@ -115,7 +115,7 @@ body{
         color: #2e2f42;
 }
 
-.about-strategy{
+.about-h{
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -140,6 +140,7 @@ body{
         font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
+        text-transform: capitalize;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
@@ -148,11 +149,22 @@ body{
 
 .team-item{
         font-family: "Roboto", sans-serif;
-        background: #fff;
+
+        background: #ffffff;
 }
 
 .center-text{
-    text-align: center;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+.center-paragraph {
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
 }
 
 /*=================SECTION 3 STYLES=================*/
