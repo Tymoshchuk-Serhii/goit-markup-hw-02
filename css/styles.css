@@ -181,6 +181,10 @@ body{
 
 .portfolio-item{
         font-family: "Roboto", sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
 }
 
 .portfolio-h{
@@ -192,11 +196,7 @@ body{
 }
 
 .portfolio-p{
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-}
+
 
 
 
