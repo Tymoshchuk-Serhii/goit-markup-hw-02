@@ -32,14 +32,14 @@ body{
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2e2f42;
+        color: #4D5AE5;
 }
 
 .logo-page{
-    color: #4D5AE5;
+    color: #2e2f42;
 }
 
-.menu-link{
+.menu-item{
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -51,9 +51,6 @@ body{
 .menu-link:hover,
 .menu-link:active{
         color: #404bbf;
-        border-radius: 2px;
-        width: 48px;
-        height: 4px;
 }
 
 .address-link{ 
@@ -92,11 +89,6 @@ body{
         font-size: 16px;
         line-height: 1.5;
         color: #ffffff;
-        border-radius: 4px;
-        padding: 16px 32px;
-        width: 169px;
-        height: 56px;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background: #4d5ae5;
 }
 
@@ -136,7 +128,6 @@ body{
 
 .team-item{
         font-family: "Roboto", sans-serif;
-        box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
         background: #fff;
 }
 
