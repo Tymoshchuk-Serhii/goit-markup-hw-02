@@ -133,14 +133,14 @@ body{
 /*=================SECTION 2 STYLES=================*/
 
 .team{
-    background: #f4f4fd;
+        background: #f4f4fd;
+        text-transform: capitalize;     
 }
 
 .team-title{
         font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
-        text-transform: capitalize;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
