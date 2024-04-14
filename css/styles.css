@@ -44,6 +44,9 @@ body{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
+}
+
+.menu-li{
         color: #2e2f42;
 }
 
@@ -51,6 +54,10 @@ body{
 .menu-link:hover,
 .menu-link:active{
         color: #404bbf;
+}
+
+.address-top{
+        font-style: normal
 }
 
 .address-link{ 
